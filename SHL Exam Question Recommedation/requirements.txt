@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.2.2
+openpyxl==3.1.2
+sentence-transformers==2.2.2
+faiss-cpu==1.7.3
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+streamlit==1.30.0
+readability-lxml==0.8.1
+# chromadb==0.4.7  # optional, only if using Chroma

@@ -1,0 +1,21 @@
+{
+  "Train-Set": {
+    "shape": [
+      65,
+      2
+    ],
+    "columns": [
+      "Query",
+      "Assessment_url"
+    ]
+  },
+  "Test-Set": {
+    "shape": [
+      9,
+      1
+    ],
+    "columns": [
+      "Query"
+    ]
+  }
+}
